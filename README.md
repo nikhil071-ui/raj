@@ -1,3 +1,3 @@
-﻿# My Project
+# My Project
 
-This line is written locally.
+This line is written on GitHub.
