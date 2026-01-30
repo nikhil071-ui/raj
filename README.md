@@ -1,3 +1,3 @@
-# My Project
+﻿# My Project
 
-GITHUB VERSION
+MAIN VERSION LINE
