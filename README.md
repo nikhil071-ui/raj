@@ -1,3 +1,3 @@
 # My Project
 
-This line is written on GitHub.
+GITHUB VERSION
